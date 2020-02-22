@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000e6;
+}
+.intro-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:10em 0 5em 13em ;
+    font-size:1.5em;
+    color:#fff;
+}
+
+.nav-container .link-list{
+    list-style-type: none;
+    margin-left:12em;
+    display:flex; 
+}
+.nav-container .link-list a{
+    text-decoration: none;
+    padding:5em;
+    color:#fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
